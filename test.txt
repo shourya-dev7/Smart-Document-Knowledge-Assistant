@@ -1,0 +1,5 @@
+Quantum computing uses quantum bits called qubits.
+
+A qubit can exist in a superposition of states.
+
+Quantum computers use quantum gates to manipulate qubits.
